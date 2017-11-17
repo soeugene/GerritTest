@@ -8,7 +8,9 @@ int Minus(uint a, uint b)
 
 int Divide(float a, float b)
 {
-  return a/b;
+  if (a != 0) {
+    return a/b;
+  }
 }
 
 int Multiply(byte a, int b))
