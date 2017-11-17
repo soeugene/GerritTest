@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ce933e2_b47b3fe2",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1006395
+      },
+      "writtenOn": "2017-11-17T17:49:22Z",
+      "side": 1,
+      "message": "Improve main signature:\nint32_t main(int32_t argc, const char* argv[])",
+      "revId": "17c802190597a0addde82b003580cdaafd059443",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e4f44a76_985d5db3",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1006395
+      },
+      "writtenOn": "2017-11-17T17:49:22Z",
+      "side": 1,
+      "message": "Should be std::cout\nShould be \u0027a\u0027 not \u0027as\u0027",
+      "revId": "17c802190597a0addde82b003580cdaafd059443",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
