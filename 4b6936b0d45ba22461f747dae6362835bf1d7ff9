@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0d310b61_ed065ac5",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012929
+      },
+      "writtenOn": "2017-11-17T18:38:09Z",
+      "side": 1,
+      "message": "here is a comment",
+      "revId": "4b6936b0d45ba22461f747dae6362835bf1d7ff9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a8293f61_9cf9aac0",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1012929
+      },
+      "writtenOn": "2017-11-17T18:38:09Z",
+      "side": 1,
+      "message": "Another comment...fix me please",
+      "revId": "4b6936b0d45ba22461f747dae6362835bf1d7ff9",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
